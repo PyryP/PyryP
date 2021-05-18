@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PyryP
+- 👋 Hi, I’m Pyry
 - 👀 I’m interested in linux, and other unix-like operating systems such as FreeBSD
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning shell scripting, python, html and css.
 - 💞️ I’m looking to collaborate on nothing (for now)
 - 📫 How to reach me ... I suggest you send me a DM in Discord @Pyrtzy_#7490
 
